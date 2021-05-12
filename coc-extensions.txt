@@ -7,3 +7,4 @@ coc-pyright
 coc-json
 coc-java
 coc-clangd
+coc-godot
