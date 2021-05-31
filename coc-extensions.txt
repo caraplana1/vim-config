@@ -4,7 +4,8 @@ coc-marketplace
 coc-git
 coc-tsserver
 coc-pyright
+coc-omnisharp
 coc-json
 coc-java
-coc-clangd
 coc-godot
+coc-clangd
